@@ -52,9 +52,3 @@ This dashboard can be used by:
 - COD is the most preferred payment method.
 - Printers generate the highest profit among sub-categories.
 
-
----
-
-## ⭐ Support
-
-If you find this project helpful, feel free to give it a star ⭐ and share your feedback!
